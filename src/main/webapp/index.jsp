@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>AVD Group</title>
+		<title>Welcome to page</title>
 	</head>
 	<body>
 		<h2 style="background: blue;text-align: center;color: white;">AVD Group</h2>
